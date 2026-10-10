@@ -1,9 +1,3 @@
-### 340-character introduction
-
-Bangladesh Dashboard is a locally hosted OSINT and geospatial monitoring platform featuring interactive maps, defence and infrastructure locations, ports, airports, energy projects, conflict-area references, regional news, RSS feeds, public Telegram channels, dark-web onion RSS, ransomware intelligence, earthquake data and 15 intelligence categories.
-
-### README.md
-
 # 🇧🇩 BANGLADESH DASHBOARD v1.0
 
 ---
